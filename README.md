@@ -6,7 +6,7 @@ For all your needs.
 -   [Known Issues](#known-issues)
 
 ## Description
-This extension aims to provide good tools for angular development.
+This extension aims to provide good tools for react development.
 - Include Code Metrics to compute the complexity in your code
 - Prettier A good Code formater
 - ESLint
