@@ -2,7 +2,7 @@
     "name": "jconsoftware-extension-pack",
     "displayName": "React Extension pack",
     "description": "Vs code extension for React projects by JcOnSoftware",
-    "version": "0.0.2",
+    "version": "1.0.0",
     "publisher": "jcyovera",
     "icon": "assets/logo-jc.png",
     "engines": {
@@ -26,13 +26,13 @@
         "eamodio.gitlens",
         "EditorConfig.EditorConfig",
         "ionutvmi.path-autocomplete",
-        "rbbit.typescript-hero",
         "christian-kohler.path-intellisense",
         "planbcoding.vscode-react-refactor",
         "vincaslt.highlight-matching-tag",
         "infeng.vscode-react-typescript",
         "xabikos.JavaScriptSnippets",
-        "formulahendry.auto-rename-tag"
+        "formulahendry.auto-rename-tag",
+        "yoavbls.pretty-ts-errors"
 
     ]
 }
